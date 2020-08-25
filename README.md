@@ -1,2 +1,2 @@
 # leetcode-solutions
-My leetcode solutions with Python
+Here are my Leetcode solutions, mainly done using Python 3.
