@@ -4,7 +4,7 @@ class Solution:
             return head
         res = head.next
         prev = None
-        while head and head.next and head.next:
+        while head and head.next:
             ptr1, ptr2, ptr3 = head, head.next, head.next.next
             if prev:
                 prev.next = ptr2
